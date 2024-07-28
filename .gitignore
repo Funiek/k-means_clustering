@@ -33,4 +33,4 @@
 *main
 
 kmeans
-results
+results/*.txt
